@@ -1,0 +1,11 @@
+textarea {
+    resize: none;
+}
+
+.error {
+    background-color: #ff6347;
+}
+
+.error-msg {
+    color: #ff0000;
+}

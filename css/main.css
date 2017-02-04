@@ -1,0 +1,32 @@
+.padding {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.div-height {
+    height: 325px;
+}
+
+.icon-position {
+    padding: 8px;
+}
+
+.page-height {
+    margin-top: 50px;
+}
+
+.nav > .log-out {
+    /*margin-left: 870px;*/
+    position: fixed;
+    right: 70px;
+}
+
+/*@media (min-width: 768px)*/
+/*.navbar-nav > .log-out {*/
+/*    float: left;*/
+/*    margin: 0;*/
+/*}*/
+
+/*.log-out-heigth {*/
+/*    height: 209px;*/
+/*}*/
